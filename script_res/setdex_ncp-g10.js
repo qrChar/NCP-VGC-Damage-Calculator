@@ -857,7 +857,7 @@ var SETDEX_GEN10 = {
                 "Moonblast",
                 "Draining Kiss",
                 "Light of Ruin",
-                "Pyschic",
+                "Psychic",
             ],
         },
         "Calm Mind Mega Sweeper": {
