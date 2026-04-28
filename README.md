@@ -1,3 +1,4 @@
+(I don't have experience so I'm working it out as I go)
 # BSS Damage Calculator
 Adapted for BSS, by qrChar, from the VGC Damage Calculator, which is currently maintained and developed by nerd-of-now.
 
