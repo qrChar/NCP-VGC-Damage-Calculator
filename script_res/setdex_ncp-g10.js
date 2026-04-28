@@ -856,7 +856,7 @@ var SETDEX_GEN10 = {
             "moves": [
                 "Moonblast",
                 "Draining Kiss",
-                "Light of Ruin,
+                "Light of Ruin",
                 "Pyschic",
             ],
         },
